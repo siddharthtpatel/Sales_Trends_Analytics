@@ -1,21 +1,12 @@
-# Sales_Trends_Analytics
+# ABC co. inc. Sales Trends & Insight Analysis
 
-![](Images/Presentation pg 1.png)
-
-![](Images/Presentation pg 2.png)
-
-![](Images/Presentation pg 3.png)
-
-![](Images/Presentation pg 4.png)
-
-![](Images/Presentation pg 5.png)
-
-![](Images/Presentation pg 6.png)
-
-![](Images/Presentation pg 7.png)
-
-![](Images/Presentation pg 8.png)
-
-![](Images/Presentation pg 9.png)
-
-![](Images/Presentation pg 10.png)
+<img src="Images/Presentation pg 1.png">
+<img src="Images/Presentation pg 2.png">
+<img src="Images/Presentation pg 3.png">
+<img src="Images/Presentation pg 4.png">
+<img src="Images/Presentation pg 5.png">
+<img src="Images/Presentation pg 6.png">
+<img src="Images/Presentation pg 7.png">
+<img src="Images/Presentation pg 8.png">
+<img src="Images/Presentation pg 9.png">
+<img src="Images/Presentation pg 10.png">
